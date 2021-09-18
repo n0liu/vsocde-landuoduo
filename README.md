@@ -2,5 +2,5 @@
 
 #### MAC command+shift+p 
 
-### windows ctrl+shift+p 
+#### windows ctrl+shift+p 
 
