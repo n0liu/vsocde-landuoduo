@@ -9,11 +9,15 @@
 	"categories": [
 		"Other"
 	],
+	"icon": "images/tq.jpeg",
 	"publisher": "landuoduo",
 	"manifest": "",
 	"activationEvents": [
 		"onCommand:landuoduo"
 	],
+	"repository": {
+		"type": "git"
+	},
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
@@ -23,6 +27,7 @@
 			}
 		]
 	},
+	"license": "SEE LICENSE IN LICENSE.txt",
 	"scripts": {
 		"vscode:prepublish": "npm run package",
 		"compile": "webpack",
