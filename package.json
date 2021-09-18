@@ -2,7 +2,7 @@
 	"name": "landuoduo",
 	"displayName": "landuoduo",
 	"description": "",
-	"version": "0.0.3",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
@@ -16,7 +16,8 @@
 		"onCommand:landuoduo"
 	],
 	"repository": {
-		"type": "git"
+		"type": "git",
+		"url": "https://github.com/xxweb123/vsocde-landuoduo"
 	},
 	"main": "./dist/extension.js",
 	"contributes": {
